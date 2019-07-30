@@ -5,7 +5,7 @@ The file name will be kept self explainitory
 
 #1 Interactive Dictionary in Python
     Files :
-    app1.py
+    app1.py ,
     data.json
     
     app1.py is a python program implementing the interactive dictionary 
