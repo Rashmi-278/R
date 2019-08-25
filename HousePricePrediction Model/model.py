@@ -9,7 +9,7 @@ from learntools.core import *
 
 
 # Path of the file to read. We changed the directory structure to simplify submitting to a competition
-iowa_file_path = '../input/home-data-for-ml-course/train.csv'
+iowa_file_path = 'train.csv'
 
 home_data = pd.read_csv(iowa_file_path)
 # Create target object and call it y
